@@ -1,1 +1,1 @@
-# sentiment-analysis-apk-e-commerce
+# Sentiment Analysis APK E-commerce Tokopedia using LSTM and GRU
